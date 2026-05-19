@@ -9,3 +9,8 @@ nltk
 scikit-learn 
 jupyter 
 pytest
+vaderSentiment
+textblob
+tqdm
+psycopg2-binary
+SQLAlchemy
